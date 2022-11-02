@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: 1c0dafa919ef3422596ad694d6795a46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3030902824363236753
+    second: TX_AtlasUI_5
+  - first:
+      213: 6692904034594630090
+    second: TX_AtlasUI_6
+  - first:
+      213: -2828777216475929357
+    second: TX_AtlasUI_7
+  - first:
+      213: -1243355734234445323
+    second: TX_AtlasUI_8
+  - first:
+      213: -3635343520806575162
+    second: TX_AtlasUI_9
+  - first:
+      213: -7990039925645837084
+    second: TX_AtlasUI_10
+  - first:
+      213: 2038707570774011725
+    second: TX_AtlasUI_0
+  - first:
+      213: -3132009106571625430
+    second: TX_AtlasUI_11
+  - first:
+      213: -2001497087542236656
+    second: TX_AtlasUI_12
+  - first:
+      213: -3501362418044380284
+    second: TX_AtlasUI_13
+  - first:
+      213: 8459457769086037023
+    second: TX_AtlasUI_14
+  - first:
+      213: 93930670058796351
+    second: TX_AtlasUI_15
+  - first:
+      213: -308854781177947489
+    second: TX_AtlasUI_16
+  - first:
+      213: -5874563062231876727
+    second: TX_AtlasUI_17
+  - first:
+      213: -7604573174039627554
+    second: TX_AtlasUI_18
+  - first:
+      213: -1610481362584420501
+    second: TX_AtlasUI_19
+  - first:
+      213: 128060841655394164
+    second: TX_AtlasUI_20
+  - first:
+      213: -5237771118170392001
+    second: TX_AtlasUI_21
+  - first:
+      213: -2271177004646072504
+    second: TX_AtlasUI_22
+  - first:
+      213: -6334789875578301113
+    second: TX_AtlasUI_1
+  - first:
+      213: 7448997900280134838
+    second: TX_AtlasUI_2
+  - first:
+      213: -4891506816660705247
+    second: TX_AtlasUI_3
+  - first:
+      213: 355549180841419971
+    second: TX_AtlasUI_4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TX_AtlasUI_0
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1816
+        width: 572
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f62ecebb1fa4c10800000000000000
+      internalID: 2038707570774011725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX_AtlasUI_1
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1530
+        width: 775
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7451a6bdb2e4618a0800000000000000
+      internalID: -6334789875578301113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX_AtlasUI_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1423
+        width: 286
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4eb3feb1a2eb8d0800000000000000
+      internalID: -2828777216475929357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX_AtlasUI_11
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 599
+        width: 234
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c7289cf4ed884d0800000000000000
+      internalID: -3132009106571625430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX_AtlasUI_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 208
+        width: 746
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bdf8a8e69a86fc0800000000000000
+      internalID: -3501362418044380284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX_AtlasUI_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1656
+        width: 572
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4eb30a81a2fe400800000000000000
+      internalID: 355549180841419971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX_AtlasUI_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1536
+        width: 286
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62e91d80f110f5d0800000000000000
+      internalID: -3030902824363236753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX_AtlasUI_6
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1536
+        width: 286
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9aac942c8f1ec50800000000000000
+      internalID: 6692904034594630090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX_AtlasUI_8
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 967
+        width: 680
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9c28b1c86bebee0800000000000000
+      internalID: -1243355734234445323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX_AtlasUI_9
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 978
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c36ec5245aac8dc0800000000000000
+      internalID: -3635343520806575162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX_AtlasUI_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 600
+        width: 306
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecf0ba450dad1190800000000000000
+      internalID: -7990039925645837084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
