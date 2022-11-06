@@ -31,6 +31,7 @@ Material:
     m_Floats:
     - _Float0: 0
     - _Float1: 7
+    - __dirty: 0
     m_Colors:
     - _Color0: {r: 0.9811321, g: 0.9231043, b: 0.22677112, a: 0}
     - _Color1: {r: 1, g: 1, b: 1, a: 0}
