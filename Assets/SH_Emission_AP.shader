@@ -46,7 +46,7 @@ Shader "SH_Emission_AP"
 Version=19002
 207;150;1126;552;1298.66;452.1865;1.617767;True;True
 Node;AmplifyShaderEditor.ColorNode;2;-772.0812,-64.52965;Inherit;False;Property;_Color0;Color 0;1;0;Create;True;0;0;0;False;0;False;0.9245283,0.8564467,0,0;1,1,1,0;True;0;5;COLOR;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4
-Node;AmplifyShaderEditor.RangedFloatNode;1;-703.9672,246.4678;Inherit;False;Property;_Float0;Float 0;0;0;Create;True;0;0;0;False;0;False;1.22;-0.69;0;0;0;1;FLOAT;0
+Node;AmplifyShaderEditor.RangedFloatNode;1;-703.9672,246.4678;Inherit;False;Property;_Float0;Float 0;0;0;Create;True;0;0;0;False;0;False;1.22;-0.07;0;0;0;1;FLOAT;0
 Node;AmplifyShaderEditor.SimpleAddOpNode;5;-521.5789,57.34588;Inherit;True;2;2;0;COLOR;0,0,0,0;False;1;FLOAT;0;False;1;COLOR;0
 Node;AmplifyShaderEditor.SamplerNode;7;-640.5165,335.6089;Inherit;True;Property;_TextureSample0;Texture Sample 0;2;0;Create;True;0;0;0;False;0;False;-1;None;4b34cf2709e2c4c079274349fa840e2a;True;0;False;white;Auto;False;Object;-1;Auto;Texture2D;8;0;SAMPLER2D;;False;1;FLOAT2;0,0;False;2;FLOAT;0;False;3;FLOAT2;0,0;False;4;FLOAT2;0,0;False;5;FLOAT;1;False;6;FLOAT;0;False;7;SAMPLERSTATE;;False;5;COLOR;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4
 Node;AmplifyShaderEditor.SimpleMultiplyOpNode;6;-228.0431,-135.5006;Inherit;True;2;2;0;COLOR;0,0,0,0;False;1;COLOR;0,0,0,0;False;1;COLOR;0
@@ -58,4 +58,4 @@ WireConnection;6;1;7;0
 WireConnection;26;0;7;0
 WireConnection;26;2;6;0
 ASEEND*/
-//CHKSM=C2E296E24D39FB278ED7AAE015ABFAFE5037B05A
+//CHKSM=25C79A5F1D52D2F2E70B0E817E9A694641049334
