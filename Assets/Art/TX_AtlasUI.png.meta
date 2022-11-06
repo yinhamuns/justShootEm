@@ -184,10 +184,10 @@ TextureImporter:
       name: TX_AtlasUI_1
       rect:
         serializedVersion: 2
-        x: 1144
-        y: 1530
-        width: 775
-        height: 420
+        x: 1053
+        y: 1464
+        width: 822
+        height: 433
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -386,6 +386,69 @@ TextureImporter:
       bones: []
       spriteID: 4ecf0ba450dad1190800000000000000
       internalID: -7990039925645837084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX_AtlasUI_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1200
+        width: 75
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcf3d2bf18206760800000000000000
+      internalID: 7448997900280134838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX_AtlasUI_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1200
+        width: 75
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12079807770ed1cb0800000000000000
+      internalID: -4891506816660705247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX_AtlasUI_12
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1200
+        width: 75
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ae016d0014934e0800000000000000
+      internalID: -2001497087542236656
       vertices: []
       indices: 
       edges: []
