@@ -159,7 +159,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 5.6508, y: -236}
+  m_AnchoredPosition: {x: 21, y: -236}
   m_SizeDelta: {x: 373.3015, y: 259.2621}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &40690630
@@ -222,7 +222,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1, y: -13}
+  m_AnchoredPosition: {x: -1.0000002, y: -13}
   m_SizeDelta: {x: 611.9, y: 674.478}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &169630108
@@ -1142,7 +1142,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 5, y: -35.091003}
+  m_AnchoredPosition: {x: 3, y: -35.091003}
   m_SizeDelta: {x: 581.467, y: 435.09}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &773227628
@@ -2417,6 +2417,34 @@ PrefabInstance:
       propertyPath: m_SpriteState.m_HighlightedSprite
       value: 
       objectReference: {fileID: 2038707570774011725, guid: 1c0dafa919ef3422596ad694d6795a46, type: 3}
+    - target: {fileID: 3348381721782345037, guid: c88f42e56ecab43ef853f59d692e54e7, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3348381721782345037, guid: c88f42e56ecab43ef853f59d692e54e7, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3348381721782345037, guid: c88f42e56ecab43ef853f59d692e54e7, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 102900000, guid: c1619a0a053ba4f8cb7c6fb51f82ee25, type: 3}
+    - target: {fileID: 3348381721782345037, guid: c88f42e56ecab43ef853f59d692e54e7, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3348381721782345037, guid: c88f42e56ecab43ef853f59d692e54e7, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3348381721782345037, guid: c88f42e56ecab43ef853f59d692e54e7, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 3348381721782345037, guid: c88f42e56ecab43ef853f59d692e54e7, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 3348381721849783402, guid: c88f42e56ecab43ef853f59d692e54e7, type: 3}
       propertyPath: m_text
       value: slot 01
@@ -2727,7 +2755,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 960.404, y: -296.52402}
+  m_AnchoredPosition: {x: 958.404, y: -296.52402}
   m_SizeDelta: {x: 486.889, y: 57.859}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1507122525
